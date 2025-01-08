@@ -1,4 +1,4 @@
-aweberries, 16 years old, and passionate.
+aweberries, 16 years old, and dedicated.
 
 Experienced **Game Developer**
 - Unreal Engine
