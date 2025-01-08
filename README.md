@@ -11,7 +11,7 @@ Experienced **3D Artist**
 
 Skilled **Graphic Designer**
 - Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects
-- I have been using Adobe products for approximately 6 years now.
+- I have been using Adobe products for approximately 6 years now. I know my way around those applications. I mainly use them to make graphics for my game, like game icons, trailers, etc.
 
 Learning **Producer**
 - FL Studio
