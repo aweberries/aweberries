@@ -18,6 +18,9 @@ Learning **Producer**
 - I am fairly new to making music, but am somewhat knowledgable on designing sounds for my projects.
 
 **Tag Listing**
-1. Learning - In the process of learning that role
-2. Experienced - Learnt most of that role and can handle it for the most part, still looking forward to learn new things along the way
-3. Skilled - Learnt that role to the most of my ability
+1. Learning
+- In the process of learning that role
+2. Experienced
+- Learnt most of that role and can handle it for the most part, still looking forward to learn new things along the way
+3. Skilled
+- Learnt that role to the most of my ability
