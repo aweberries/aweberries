@@ -3,7 +3,7 @@ aweberries, 16 years old, and dedicated.
 Experienced **Game Developer**
 - Unreal Engine
 - Programmer, Gameplay & Level & Sound Designer
-- I try to be as unique and original as possible. Meaning that I rarely use resources from the internet to help me on a project. I would normally only take some gameplay/style inspiration from other games, and texture assets from the internet.
+- I try to be as unique and original as possible. Meaning that I rarely use asset resources from the internet to help me on a project. I would normally only take some gameplay/style inspiration from other games, and texture assets from the internet.
 
 Experienced **3D Artist**
 - Blender
@@ -11,7 +11,7 @@ Experienced **3D Artist**
 
 Skilled **Graphic Designer**
 - Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects
-- I have been using Adobe products for approximately 6 years now. I know my way around those applications. I mainly use them to make graphics for my game, like game icons, trailers, etc.
+- I have been using Adobe products for approximately 6 years now. I mainly use said products to make graphics for my game.
 
 Learning **Producer**
 - FL Studio
